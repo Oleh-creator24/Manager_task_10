@@ -34,3 +34,8 @@ Thumbs.db
 htmlcov/
 .coverage
 .coverage.*
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
