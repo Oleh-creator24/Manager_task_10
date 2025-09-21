@@ -73,3 +73,4 @@ Manager_task_10/
 1. Запустите сервер:
 ```bash
 python manage.py runserver# Manager_task_11
+# Manager_task_12
